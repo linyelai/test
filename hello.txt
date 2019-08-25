@@ -1,4 +1,3 @@
 hello world c language
  this is good language
- thi is featrue-1
-
+ this is featrue-2
